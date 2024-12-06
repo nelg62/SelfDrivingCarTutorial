@@ -8,4 +8,7 @@ Playlist: https://www.youtube.com/watch?v=NkI9ia2cLhc&list=PLB0Tybl0UNfYoJE7ZwsB
 
 found on freeCodeCamp: https://www.youtube.com/watch?v=Rs_rAxEsAvI
 
-up to 1:10:00
+up to 2:02:01
+
+creating the visual neural networks 
+
