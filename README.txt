@@ -12,3 +12,6 @@ up to 2:02:01
 
 creating the visual neural networks 
 
+
+https://www.youtube.com/watch?v=lok3RVBwSqE
+up to 25:27
